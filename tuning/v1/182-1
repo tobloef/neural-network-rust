@@ -1,0 +1,38 @@
+Training started with the following configuration:
+  - Layers:
+    - Sigmoid(784, 108)
+    - Sigmoid(108, 10)
+    - Tanh(10, 10)
+  - Training data size: 60000
+  - Testing data size: 10000
+  - Learning rate: 5
+  - Min epochs: 25
+  - Max epochs: 25
+  - Batch size: 500
+  - Error goal: None
+  - Accuracy goal: N/A
+  - Seed: seed-182-1
+
+
+                                                                  ⢀⣀⣀⣀⣀⠤⠤⠤⠤⣀⣀⣀⣀⣀⡠⠤⠒⠊⠉⠒⠢⢄⣀⣀⣀⣀⣀⣀⠤⠤⠒⠒⠒⠒⠄ 51.5
+                                                              ⡠⠤⠒⠊⠁                                  
+                                                          ⢀⡠⠔⠉                                       
+                                                       ⣀⠤⠒⠁                                          
+                                                    ⢀⠔⠉                                              
+                                         ⡠⠤⠤⠤⠤⠒⢄   ⡠⠊                                                
+                                       ⡠⠊       ⠉⠢⡔⠁                                                 
+                           ⢀⠔⠉⠢⢄    ⣀⠔⠊                                                              
+        ⢀⣀         ⢀⡠⠒⢄   ⡠⠊    ⠉⠢⠔⠊                                                                 
+       ⡰⠁ ⠉⠑⠢⠤⠤⠤⠤⠔⠊⠁   ⠉⠢⡔⠁                                                                          
+      ⡔⠁                                                                                             
+⠤⣀  ⢀⠜                                                                                               
+  ⠉⠒⠎                                                                                                 11.2
+1.0                                                                                              25.0
+
+
+Training finished with the following results:
+  - Epochs: 25
+  - Error: 0.055257756
+  - Accuracy: 50.17%
+  - Duration: 00:04:11
+

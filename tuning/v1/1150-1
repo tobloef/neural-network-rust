@@ -1,0 +1,38 @@
+Training started with the following configuration:
+  - Layers:
+    - LeakyRelu(784, 108)
+    - LeakyRelu(108, 10)
+    - Tanh(10, 10)
+  - Training data size: 60000
+  - Testing data size: 10000
+  - Learning rate: 0.1
+  - Min epochs: 25
+  - Max epochs: 25
+  - Batch size: 500
+  - Error goal: None
+  - Accuracy goal: N/A
+  - Seed: seed-1150-1
+
+
+                                                                  ⢀⣀⣀⣀⣀⠤⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠉⠉⠉⠉⠁ 79.7
+                                                      ⣀⣀⣀⣀⡠⠤⠔⠒⠊⠉⠉⠉⠁                                  
+                                     ⢀⣀⣀⣀⡠⠤⠤⠤⠤⠒⠒⠒⠒⠉⠉⠉⠉                                               
+                           ⣀⣀⠤⠤⠤⠤⠔⠒⠊⠉⠁                                                               
+                     ⣀⡠⠤⠒⠉⠉                                                                          
+                ⢀⣀⠤⠒⠉                                                                                
+             ⢀⡠⠒⠁                                                                                    
+           ⡠⠊⠁                                                                                       
+        ⢀⡠⠊                                                                                          
+      ⢀⠔⠁                                                                                            
+     ⡠⠃                                                                                              
+   ⣀⠎                                                                                                
+⠤⠒⠉                                                                                                   18.6
+1.0                                                                                              25.0
+
+
+Training finished with the following results:
+  - Epochs: 25
+  - Error: 0.035840094
+  - Accuracy: 79.48%
+  - Duration: 00:06:38
+

@@ -1,0 +1,41 @@
+Training started with the following configuration:
+  - Layers:
+    - Relu(784, 112)
+    - Relu(112, 107)
+    - Relu(107, 103)
+    - Relu(103, 10)
+    - Softmax(10, 10)
+  - Training data size: 60000
+  - Testing data size: 10000
+  - Learning rate: 0.75
+  - Min epochs: 25
+  - Max epochs: 25
+  - Batch size: 60000
+  - Error function: MeanSquared
+  - Error goal: None
+  - Accuracy goal: N/A
+  - Seed: seed-947-0
+
+
+                                                                                                      10.3
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                                                                                     
+⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀                                                       
+                                              ⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠒⠒⠤⠤⠤⠤⡀
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                                                                                      9.9
+1.0                                                                                              25.0
+
+
+Training finished with the following results:
+  - Epochs: 25
+  - Error: 0.09065476
+  - Accuracy: 10.06%
+  - Duration: 00:05:35
+

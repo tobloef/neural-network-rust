@@ -1,0 +1,38 @@
+Training started with the following configuration:
+  - Layers:
+    - Elu(784, 10)
+    - Tanh(10, 10)
+  - Training data size: 60000
+  - Testing data size: 10000
+  - Learning rate: 0.001
+  - Min epochs: 25
+  - Max epochs: 25
+  - Batch size: 1
+  - Error function: CrossEntropy
+  - Error goal: None
+  - Accuracy goal: N/A
+  - Seed: seed-1376-1
+
+
+                                                                  ⢀⣀⣀⣀⣀  ⣀⣀⠤⠤⣀⣀    ⢀⣀⣀⣀⡀            ⡀ 91.6
+                         ⣀⣀⣀⣀      ⢀⣀⡠⠤⠤⠤⠔⠒⠒⠒⠒⠤⠤⠤⠤⠒⠒⠒⠒⠒⠒⠒⠒⠊⠉⠉⠉⠉⠉⠉⠉⠁    ⠉⠉      ⠉⠉⠉⠉⠁   ⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉ 
+                ⢀⣀⣀⠤⠤⠒⠒⠉⠉    ⠉⠉⠉⠉⠉⠉⠁                                                                 
+             ⢀⡠⠒⠁                                                                                    
+          ⢀⠤⠊⠁                                                                                       
+       ⢀⠔⠊⠁                                                                                          
+     ⡠⠒⠁                                                                                             
+   ⡰⠉                                                                                                
+  ⢠⠃                                                                                                 
+ ⢀⠇                                                                                                  
+ ⡎                                                                                                   
+⡜                                                                                                    
+⠁                                                                                                     86.0
+1.0                                                                                              25.0
+
+
+Training finished with the following results:
+  - Epochs: 25
+  - Error: 0.45460746
+  - Accuracy: 91.19%
+  - Duration: 00:00:31
+

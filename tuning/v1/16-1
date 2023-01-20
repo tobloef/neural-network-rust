@@ -1,0 +1,36 @@
+Training started with the following configuration:
+  - Layers:
+    - Tanh(784, 10)
+  - Training data size: 60000
+  - Testing data size: 10000
+  - Learning rate: 0.001
+  - Min epochs: 25
+  - Max epochs: 25
+  - Batch size: 1
+  - Error goal: None
+  - Accuracy goal: N/A
+  - Seed: seed-16-1
+
+
+                                                                                                      85.5
+⠉⠢⣀        ⢀⠴⡀                                      ⢀⠔⠣⡀                                             
+   ⠑⠤⡀    ⢠⠊ ⠱⡀                                   ⢀⠔⠁  ⠑⡄            ⢀⠔⢇                             
+     ⠈⠢⡀ ⡠⠃   ⠱⡀    ⢀⡄                           ⡠⠃     ⠈⢆          ⡰⠁ ⠘⡄                      ⢠⢆    
+       ⠈⠲⠁     ⠱⡀ ⡠⠔⠁⠈⢆                        ⡠⠊         ⠱⡀      ⢠⠊    ⢱                     ⢠⠃ ⠣⡀  
+                ⠑⠊     ⠱⡀       ⢠⠊⠉⠒⠢⢄       ⢀⠎            ⠈⠢⡀  ⢀⠔⠁      ⢇    ⢀⠤⠤⢄⣀⡀ ⢀⣀⣠     ⢠⠃   ⠑⡄ 
+                        ⠈⢆     ⢠⠃    ⠘⡄      ⡎               ⠈⠢⠔⠁        ⠘⡄  ⡔⠁    ⠈⠉⠁  ⠑⢄  ⢠⠃     ⠈⠂
+                          ⠣⡀  ⢠⠃      ⢱     ⡸                             ⢱⡠⠊            ⠈⠢⣠⠃        
+                           ⠑⡄⢠⠃        ⢇   ⢰⠁                              ⠁               ⠈         
+                            ⠈⠃         ⠘⡄ ⢀⠇                                                         
+                                        ⢱ ⡎                                                          
+                                         ⠻                                                           
+                                                                                                      82.9
+1.0                                                                                              25.0
+
+
+Training finished with the following results:
+  - Epochs: 25
+  - Error: 0.78201246
+  - Accuracy: 84.18%
+  - Duration: 00:00:29
+

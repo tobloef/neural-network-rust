@@ -1,0 +1,37 @@
+Training started with the following configuration:
+  - Layers:
+    - LeakyRelu(784, 10)
+    - Softmax(10, 10)
+  - Training data size: 60000
+  - Testing data size: 10000
+  - Learning rate: 0.001
+  - Min epochs: 25
+  - Max epochs: 25
+  - Batch size: 1
+  - Error goal: None
+  - Accuracy goal: N/A
+  - Seed: seed-1096-0
+
+
+                         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡠⠤⠤⠤⢄⣀⣀⠤⠤⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠄ 91.7
+                  ⢀⡠⠔⠉⠉⠉⠉                                                                            
+            ⢀⣀⡠⠤⠔⠊⠁                                                                                  
+        ⢀⡠⠔⠊⠁                                                                                        
+       ⢠⠃                                                                                            
+      ⢠⠃                                                                                             
+     ⢠⠃                                                                                              
+    ⢠⠃                                                                                               
+   ⢀⠇                                                                                                
+  ⢠⠃                                                                                                 
+ ⢠⠃                                                                                                  
+⢠⠃                                                                                                   
+⠃                                                                                                     73.3
+1.0                                                                                              25.0
+
+
+Training finished with the following results:
+  - Epochs: 25
+  - Error: 0.35404012
+  - Accuracy: 91.03%
+  - Duration: 00:01:11
+

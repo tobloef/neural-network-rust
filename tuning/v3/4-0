@@ -1,0 +1,40 @@
+Training started with the following configuration:
+  - Layers:
+    - Relu(784, 256)
+    - Relu(256, 10)
+    - Softmax(10, 10)
+  - Training data size: 60000
+  - Testing data size: 10000
+  - Learning rate: [(0, 0.005)]
+  - Min epochs: 30
+  - Max epochs: 30
+  - Batch size: 1
+  - Error function: CrossEntropy
+  - Error goal: None
+  - Accuracy goal: N/A
+  - Seed: seed-4-0
+
+
+                                                                        ⢀⣀⣀⣀                          98.5
+                             ⣀⠤⠢⡀     ⣀⣀⠤⠔⠒⠒⠒⠤⠤⠤⠤⢄⡀   ⣀⠤⠤⠤⠔⠒⠒⠒⠉⠉⠉⠑⠒⠒⠒⠉⠉⠉⠁   ⠉⠉⠉⠉⠉⠉⠉⠒⠒⠒⠉⠉⠉⠉⠉⠉⠉⠒⠒⠒⠊⠉⠉⠉⠁
+                          ⡠⠊⠉   ⠈⠢⡀⢀⠤⠊            ⠈⠑⠒⠉                                               
+             ⡠⠒⠒⠒⠤⠤⠤⠤⠤⠤⠤⠤⠊        ⠈⠁                                                                 
+           ⡠⠊                                                                                        
+         ⢀⠜                                                                                          
+   ⡠⠤⠤⠤⣀⠔⠁                                                                                           
+  ⢠⠃                                                                                                 
+  ⡎                                                                                                  
+ ⡸                                                                                                   
+⢠⠃                                                                                                   
+⡎                                                                                                    
+                                                                                                      95.6
+1.0                                                                                              30.0
+
+
+Training finished with the following results:
+  - Epochs: 30
+  - Error: 0.00008176509
+  - Final Accuracy: 98.22%
+  - Best Accuracy: 98.28%
+  - Duration: 00:20:25
+

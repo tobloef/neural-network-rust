@@ -1,0 +1,28 @@
+[package]
+name = "ai"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+rand_seeder = "0.2.3"
+rand_pcg = "0.3.1"
+rand_chacha = "0.3.1"
+rand_distr = "0.4.3"
+ndarray = { version = "0.15.6", features = ["serde"] }
+ndarray-rand = "0.14.0"
+mnist = "0.5.0"
+bmp = "0.5.0"
+dyn-clone = "1.0.10"
+indicatif = "0.17.2"
+textplots = "0.8.0"
+rgb = "0.8.34"
+ctrlc = "3.2.4"
+console = "0.15.3"
+itertools = "0.10.5"
+rayon = "1.6.1"
+regex = "1.7.0"
+lazy_static = "1.4.0"
+serde = { version = "1.0.152", features = ["derive"] }
+serde_json = "1.0.91"
+chrono = "0.4.23"
