@@ -1,0 +1,1 @@
+Rust implementation of a Neural Network, without the use of machine learning libraries. For the purpose of learning a bit of Rust. Based on my previous project [neural-network-python](https://github.com/tobloef/neural-network-python).
